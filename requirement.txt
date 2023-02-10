@@ -1,0 +1,5 @@
+config == 0.5.1
+Flask == 2.2.2
+pandas == 1.5.1
+scikit-learn == 1.2.0
+numpy == 1.23.4
